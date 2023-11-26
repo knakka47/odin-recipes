@@ -1,1 +1,2 @@
 # odin-recipes
+# This current project will be utilized to kickstart my web development journey and give me useful experience for creating websites using HTML and CSS, as well as give me technical knowledge to benefit my career in software development
